@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/readme/hero.svg" width="100%" alt="刘老师 · LLS：AI 实操方向的内容与工具仓">
+</p>
+
 # 刘老师 · LLS
 
 AI 实操方向的内容与工具仓。正在连载《WorkBuddy 从零基础到入门》，把能落地的操作写成课程，把重复劳动做成工具。
@@ -20,6 +24,9 @@ AI 实操方向的内容与工具仓。正在连载《WorkBuddy 从零基础到�
 | [`srt-craft`](https://github.com/lhg-projects/srt-craft) | 开源本地字幕纠错工具：SRT + 原始口播文稿 → 拼音对齐修同音错字，时间轴零漂移；支持音频转字幕、AI 语义校正、剪映加密草稿导出 | 已开源 |
 | [`lls-lanclip`](https://github.com/lhg-projects/lls-lanclip) | 纯局域网剪贴板与文件同步：文字、截图、文件跨 Mac/Windows，无服务器、无需登录 | 已开源 |
 | [`lls-handbook`](https://github.com/lhg-projects/lls-handbook) | LLS 工作约束手册：命名、品牌、工程、写作四类约束，接力的人或 AI 先读这个 | 常更 |
+| [`lhg-screen-studio`](https://github.com/lhg-projects/lhg-screen-studio) | Screen Studio 3.7.5 逆向学习包：反混淆源码 + 架构剖析 + 复刻规格，给 AI Agent 读 `distill/`（22 KB） | 已开源 |
+| [`lhg-hua-studio`](https://github.com/lhg-projects/lhg-hua-studio) | HuaStudio（花录）1.8 逆向分析：8 MB 原生 SwiftUI 工具的类型骨架、缩放算法与 Agent 剪辑机制 | 已开源 |
+| [`dsh-purge`](https://github.com/lhg-projects/dsh-purge) | 上游 YuJunZhiXue/dsh-purge v1.1.71 的归档副本（非自研）：DeepSeek Harness 红队评测插件，商业许可 | 存档 |
 
 > 另有多个项目在孵化中，暂不公开。
 
